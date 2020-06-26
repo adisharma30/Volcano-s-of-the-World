@@ -2,7 +2,7 @@
 Created a Visualization of world's active Volcanos on the world map using some concepts  of data visualization of python.
 I have used folium for the visulalization of the world map, also I have used numpy and pandas for data manupilation and data parsing from the data set.
 
-# Lets know in short what is FOLIUM:- 
+# Lets know what folium is! 
 Folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the leaflet.js library. Manipulate your data in Python, then visualize it in on a Leaflet map via folium.
 
 # Concepts
@@ -12,4 +12,4 @@ The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and St
 
 
 Kindly visit the site to view how it actually looks- 
-# https://adisharma30.github.io/Volcano-s-of-the-World/index.html
+ https://adisharma30.github.io/Volcano-s-of-the-World/index.html
