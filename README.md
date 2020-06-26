@@ -10,3 +10,6 @@ folium makes it easy to visualize data that’s been manipulated in Python on an
 
 The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. folium supports both Image, Video, GeoJSON and TopoJSON overlays.
 
+
+Kindly visit the site to view how it actually looks- 
+# https://adisharma30.github.io/Volcano-s-of-the-World/index.html
